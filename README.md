@@ -1,4 +1,4 @@
-Tableau Cloud Workbook & Project Finder
+Python Tableau Cloud Workbook & Project Finder
 
 This script uses the tableauserverclient library in Python to access your Tableau Cloud site to:
 - Search for projects (folders), based on string search, returning project name and id
